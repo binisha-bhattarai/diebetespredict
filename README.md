@@ -1,6 +1,6 @@
 🏥 AI Healthcare Analytics & Prediction Dashboard
 
-Machine learning–powered diabetes risk prediction, wrapped in an interactive Streamlit dashboard.
+Machine learning powered diabetes risk prediction, wrapped in an interactive Streamlit dashboard.
 
 Enter a patient's health measurements and get an instant, ML-backed diabetes risk prediction and live analytics on the underlying dataset.
 
